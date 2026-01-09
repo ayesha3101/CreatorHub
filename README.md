@@ -107,5 +107,5 @@ GitHub: https://github.com/ayesha3101
 
 > *404: Motivation not found, but code compiles anyway.*
 
-## 📁 Folder Structure
+
 
